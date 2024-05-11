@@ -7,6 +7,6 @@ app.get("/",(req,res)=>{
 });
 
 
-app.listen("5000", () => {
+app.listen("https://api-iota-indol-26.vercel.app/", () => {
     console.log(`Backend is running.. at http://localhost:5000`);
 });
