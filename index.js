@@ -7,6 +7,6 @@ app.get("/",(req,res)=>{
 });
 
 
-app.listen('https://api-o2zzsk6w7-shohedul1s-projects.vercel.app', () => {
+app.listen('5000', () => {
     console.log(`Backend is running..`);
 });
